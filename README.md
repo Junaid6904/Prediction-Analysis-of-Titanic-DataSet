@@ -1,2 +1,1 @@
-# Prediction-Analysis-of-Titanic-DataSet
-Using Python Library (like: NumPy, Pandas, Matplotlib, Seaborn)
+This project demonstrates a complete data science workflow using the Titanic dataset, starting from data cleaning and visualization to feature engineering and model building. By applying Logistic Regression, the model achieves around 80% accuracy, showing that machine learning techniques can effectively predict passenger survival. The analysis also highlights key insights, such as higher survival rates among females and the impact of factors like age, fare, and passenger class. Overall, the project illustrates how data-driven approaches can be used to understand patterns and make reliable predictions in real-world scenarios.
